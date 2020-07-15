@@ -1,4 +1,4 @@
-# R_Fundamentals_Workshop
+# R Fundamentals Workshop
 
 An Introduction to R Fundamentals for an audience with no prior experience to R. Explores data cleaning/ manipulation, data visualization, and statistical analysis/ machine learning. 
 
